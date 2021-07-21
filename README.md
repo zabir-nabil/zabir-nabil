@@ -44,7 +44,9 @@
 
 ## :bar_chart: Stats
 
+<div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=zabir-nabil&show_icons=true&theme=radical&include_all_commits=true">|<a href="https://stackoverflow.com/users/4622046/zabir-al-nazi?tab=profile"><img src="https://github-readme-stackoverflow.vercel.app/?userID=4622046&theme=dark" height="250"></a>
 |--|--|
+</div>
 
 <br>
