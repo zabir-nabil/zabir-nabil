@@ -12,8 +12,10 @@
 I'm a self-taught software engineer with a little bit (3+ years) of machine learning experience (especially in the deep learning domain). I write reasonable Python, okayish Golang, and minimal C++. Deep learning (computer vision, NLP) is where I feel at home. Research interests are explainable multi-task learning, biomedical image analysis, speech synthesis, GANs, meta-learning, and xAI.
 
 <div align="center">
- <a href="https://zabir.info/">:earth_asia: zabir.info</a> 
+ <a style="text-decoration: none" href="https://zabir.info/">:earth_asia: zabir.info</a> 
 </div>
+
+<hr>
 
 [![Linkedin Badge](https://img.shields.io/static/v1?style=flat-square&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&link=https://www.linkedin.com/in/zan0nabil/)](https://www.linkedin.com/in/zan0nabil/)
 [![Instagram Badge](https://img.shields.io/static/v1?style=flat-square&message=Instagram&color=E4405F&logo=Instagram&logoColor=FFFFFF&link=https://instagram.com/arlnabil/)](https://www.instagram.com/arlnabil/)
