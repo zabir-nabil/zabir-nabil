@@ -8,7 +8,7 @@
 
 ## ⚡ Technologies
 
-
+<div align="center">
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat-square&logo=opencv&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white)
@@ -40,13 +40,13 @@
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat-square&logo=Trello&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 ![VS Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
-
+</div>
 
 ## :bar_chart: Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=zabir-nabil&show_icons=true&theme=radical&include_all_commits=true">|<a href="https://stackoverflow.com/users/4622046/zabir-al-nazi?tab=profile"><img src="https://github-readme-stackoverflow.vercel.app/?userID=4622046&theme=dark" height="250"></a>
-|--|--|
+<img src="https://github-readme-stats.vercel.app/api?username=zabir-nabil&show_icons=true&theme=radical&include_all_commits=true"><a href="https://stackoverflow.com/users/4622046/zabir-al-nazi?tab=profile"><img src="https://github-readme-stackoverflow.vercel.app/?userID=4622046&theme=dark" height="250"></a>
+
 </div>
 
 <br>
