@@ -15,7 +15,7 @@ I'm a self-taught software engineer with a little bit (3+ years) of machine lear
  <a style="text-decoration: none" href="https://zabir.info/">:earth_asia: zabir.info</a> 
 </div>
 
-<hr>
+## :mag_right: Find me
 
 [![Linkedin Badge](https://img.shields.io/static/v1?style=flat-square&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&link=https://www.linkedin.com/in/zan0nabil/)](https://www.linkedin.com/in/zan0nabil/)
 [![Instagram Badge](https://img.shields.io/static/v1?style=flat-square&message=Instagram&color=E4405F&logo=Instagram&logoColor=FFFFFF&link=https://instagram.com/arlnabil/)](https://www.instagram.com/arlnabil/)
