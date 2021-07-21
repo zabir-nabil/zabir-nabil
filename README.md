@@ -5,7 +5,8 @@
 <img hight="300" width="700" alt="GIF" align="center" src="https://github.com/zabir-nabil/zabir-nabil/blob/master/assets/moss.gif">
 </div>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zabir-nabil&label=Profile%20views&color=0e75b6&style=flat" alt="xtenzq" /> </p>
 
-[![zabir StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=4622046)](https://stackoverflow.com/users/4622046/zabir-al-nazi?tab=profile) [![zabir's github stats](https://github-readme-stats.vercel.app/api?username=zabir-nabil)](https://github.com/zabir-nabil/github-readme-stats)
+
 
 
