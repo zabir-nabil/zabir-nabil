@@ -1,3 +1,13 @@
+<head>
+<link href='https://fonts.googleapis.com/css?family=Stylish' rel='stylesheet'>
+<style>
+body {
+    font-family: 'Stylish';font-size: 22px;
+}
+</style>
+</head>
+
+<body>
 <h2 align="center">Bonjour, je suis nabil 👋</h2>
 
 
@@ -5,6 +15,12 @@
 <img hight="300" width="700" alt="GIF" align="center" src="https://github.com/zabir-nabil/zabir-nabil/blob/master/assets/moss.gif">
 </div>
 
+
+## :panda_face: 
+
+<div align="center">
+
+</div>
 
 ## ⚡ Technologies
 
@@ -43,7 +59,7 @@
 ![VS Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 
-## :bar_chart: Stats
+## :chart_with_upwards_trend: Stats
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=zabir-nabil&show_icons=true&theme=radical&include_all_commits=true"><a href="https://stackoverflow.com/users/4622046/zabir-al-nazi?tab=profile"><img src="https://github-readme-stackoverflow.vercel.app/?userID=4622046&theme=dark" height="250"></a>
@@ -51,3 +67,5 @@
 </div>
 
 <br>
+
+</body>
