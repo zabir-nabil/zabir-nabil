@@ -1,13 +1,4 @@
-<head>
-<link href='https://fonts.googleapis.com/css?family=Stylish' rel='stylesheet'>
-<style>
-body {
-    font-family: 'Stylish';font-size: 22px;
-}
-</style>
-</head>
 
-<body>
 <h2 align="center">Bonjour, je suis nabil 👋</h2>
 
 
@@ -17,6 +8,8 @@ body {
 
 
 ## :panda_face: 
+
+I'm a self-taught software engineer with a little bit of machine learning experience.
 
 <div align="center">
 
@@ -67,5 +60,3 @@ body {
 </div>
 
 <br>
-
-</body>
