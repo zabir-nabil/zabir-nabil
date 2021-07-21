@@ -11,11 +11,14 @@
 
 I'm a self-taught software engineer with a little bit (3+ years) of machine learning experience (especially in the deep learning domain). I write reasonable Python, okayish Golang, and minimal C++. Deep learning (computer vision, NLP) is where I feel at home. Research interests are explainable multi-task learning, biomedical image analysis, speech synthesis, GANs, meta-learning, and xAI.
 
-[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zan0nabil/)](https://www.linkedin.com/in/zan0nabil/)
-[![Instagram Badge](https://img.shields.io/badge/-kanna6501-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/arlnabil/)](https://www.instagram.com/arlnabil/)
-[![Youtube Badge](https://img.shields.io/badge/-koolkanna-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/Furcifer)](https://www.youtube.com/c/Furcifer)
-[![Medium Badge](https://img.shields.io/badge/-@aemmadi-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@furcifer/)](https://medium.com/@furcifer)
-[![Gmail Badge](https://img.shields.io/badge/-kanna6501@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zabiralnabil@gmail.com)](mailto:zabiralnabil@gmail.com)
+<div align="center">
+ <a href="https://zabir.info/">:earth_asia: zabir.info</a> 
+</div>
+
+[![Linkedin Badge](https://img.shields.io/static/v1?style=flat-square&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&link=https://www.linkedin.com/in/zan0nabil/)](https://www.linkedin.com/in/zan0nabil/)
+[![Instagram Badge](https://img.shields.io/static/v1?style=flat-square&message=Instagram&color=E4405F&logo=Instagram&logoColor=FFFFFF&link=https://instagram.com/arlnabil/)](https://www.instagram.com/arlnabil/)
+[![Youtube Badge](https://img.shields.io/static/v1?style=flat-square&message=YouTube&color=FF0000&logo=YouTube&logoColor=FFFFFF&link=https://www.youtube.com/c/Furcifer)](https://www.youtube.com/c/Furcifer)
+[![Medium Badge](https://img.shields.io/static/v1?style=flat-square&message=Medium&color=000000&logo=Medium&logoColor=FFFFFF&link=https://medium.com/@furcifer/)](https://medium.com/@furcifer)
 [![Google Scholar](https://img.shields.io/static/v1?style=flat-square&message=Google+Scholar&color=4285F4&logo=Google+Scholar&logoColor=FFFFFF&link=https://scholar.google.se/citations?pli=1&user=Fd1-G4YAAAAJ)](https://scholar.google.se/citations?pli=1&user=Fd1-G4YAAAAJ)
 [![kaggle](https://img.shields.io/static/v1?style=flat-square&message=Kaggle&color=4285F4&logo=Google+Scholar&logoColor=FFFFFF&link=https://www.kaggle.com/furcifer)](https://www.kaggle.com/furcifer)
 
