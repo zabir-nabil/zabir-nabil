@@ -1,11 +1,11 @@
 
 <h2 align="center">Bonjour, je suis nabil 👋</h2>
 
-
+<!---
 <div align="center">
 <img hight="300" width="700" alt="GIF" align="center" src="https://github.com/zabir-nabil/zabir-nabil/blob/master/assets/moss.gif">
 </div>
-
+-->
 
 ## :panda_face: 私について
 
@@ -69,12 +69,12 @@ I'm a self-taught software engineer with a little bit (3+ years) of machine lear
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 ![VS Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-
+<!---
 ## :chart_with_upwards_trend: Stats
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=zabir-nabil&show_icons=true&theme=radical&include_all_commits=true"><a href="https://stackoverflow.com/users/4622046/zabir-al-nazi?tab=profile"><img src="https://github-readme-stackoverflow.vercel.app/?userID=4622046&theme=dark" height="250"></a>
 
 </div>
-
+-->
 <br>
