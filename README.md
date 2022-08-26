@@ -17,7 +17,7 @@ I'm a self-taught software engineer with a little bit (3+ years) of machine lear
 
 ## :mag_right: Find me
 
-[![Linkedin Badge](https://img.shields.io/static/v1?style=flat-square&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&link=https://www.linkedin.com/in/zan0nabil/&label=zan0nabil)](https://www.linkedin.com/in/zan0nabil/)
+
 [![Instagram Badge](https://img.shields.io/static/v1?style=flat-square&message=Instagram&color=E4405F&logo=Instagram&logoColor=FFFFFF&link=https://instagram.com/arlnabil/&label=arlnabil)](https://www.instagram.com/arlnabil/)
 [![Youtube Badge](https://img.shields.io/static/v1?style=flat-square&message=YouTube&color=FF0000&logo=YouTube&logoColor=FFFFFF&link=https://www.youtube.com/c/Furcifer&label=Furcifer)](https://www.youtube.com/c/Furcifer)
 [![Medium Badge](https://img.shields.io/static/v1?style=flat-square&message=Medium&color=000000&logo=Medium&logoColor=FFFFFF&link=https://medium.com/@furcifer/&label=@furcifer)](https://medium.com/@furcifer)
