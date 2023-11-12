@@ -15,7 +15,7 @@ Software engineer with over 5 years of experience in machine learning, specializ
 Research interests are explainable multi-task learning, LLMs, biomedical image analysis, speech synthesis, meta-learning, and xAI. At my current role, I do prompt engineering, write ETL pipelines, and fine-tune LLMs.
 
 <div align="center">
- [:earth_asia: zabir.quest](https://zabir.quest)
+ :earth_asia: (https://zabir.quest)
 </div>
 
 ## :mag_right: Find me
