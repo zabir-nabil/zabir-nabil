@@ -10,10 +10,12 @@
 ## :panda_face: 私について
 
 Software engineer with over 5 years of experience in machine learning, specializing in deep learning, computer vision, and NLP applications. My current tech-stack is very much `Python` and `GCP`-centric. Currently diving into LLMs!
+
+
 Research interests are explainable multi-task learning, LLMs, biomedical image analysis, speech synthesis, meta-learning, and xAI. At my current role, I do prompt engineering, write ETL pipelines, and fine-tune LLMs.
 
 <div align="center">
- <a style="text-decoration: none" href="https://zabir.info/">:earth_asia: zabir.info</a> 
+ <a style="text-decoration: none" href="https://zabir.quest/">:earth_asia: zabir.quest</a> 
 </div>
 
 ## :mag_right: Find me
