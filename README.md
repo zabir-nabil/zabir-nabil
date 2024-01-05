@@ -14,7 +14,7 @@ Software engineer with over 5 years of experience in machine learning, specializ
 
 Research interests are explainable multi-task learning, LLMs, biomedical image analysis, speech synthesis, meta-learning, and xAI. At my current role, I do prompt engineering, write ETL pipelines, and fine-tune LLMs. I'm always chiming in on [StackOverflow](https://stackoverflow.com/users/4622046/zabir-al-nazi?tab=profile), helping out where I can. Oh, and by the way, 
 
-I am also a GCP certified professional ML Engineer - [Certification]([https://markdownlivepreview.com/](https://google.accredible.com/9f966df3-95e0-4404-afbb-30664de982be?record_view=true))
+I am also a GCP certified professional ML Engineer - [Certification](https://google.accredible.com/9f966df3-95e0-4404-afbb-30664de982be?record_view=true)
 
 <div align="center">
  :earth_asia: (https://zabir.quest)
