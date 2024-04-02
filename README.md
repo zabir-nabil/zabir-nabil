@@ -20,6 +20,10 @@ I am also a GCP certified professional ML Engineer - [Certification](https://goo
  :earth_asia: (https://zabir.quest)
 </div>
 
+![](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub%20Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/zabir-nabil)
+
+![](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub%20Forks&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/zabir-nabil)
+
 ## :mag_right: Find me
 
 
